@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "MPM IT DEV",
+    "classifications": [ "WebAPI", "EntityFramework" ],
+    "identity": "MANAGEMENT",
+    "name": "REST API Management Template",
+    "shortName": "mgmttemplate",
+    "sourceName": "MANAGEMENT.TEMPLATE",
+    "preferNameDirectory": true,
+    "tags": {
+      "language": "C#",
+      "type": "project" 
+    }
+  }
+  
